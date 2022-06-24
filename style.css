@@ -137,23 +137,23 @@ html {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="second"] {
-      padding-left: 100px;
-      padding-right: 100px;
+      padding-left: 48px;
+      padding-right: 48px;
     }
 }
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="header-main-content"] {
-      padding-left: 100px;
-      padding-right: 100px;
+      padding-left: 48px;
+      padding-right: 48px;
       display: block;
     }
 }
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="header-top-bar"] {
-      padding-left: 100px;
-      padding-right: 100px;
+      padding-left: 48px;
+      padding-right: 48px;
     }
 }
 @media only screen and (max-width: 768px) {
